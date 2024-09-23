@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestArtSpace</string>
+    <string name="StarryNight">Starry Night</string>
+    <string name="VincentvanGogh">Vincent van Gogh (1889)</string>
+    <string name="MonaLisa">Mona Lisa</string>
+    <string name="LeonardodaVinci">Leonardo da Vinci (1503)</string>
+    <string name="TPersistanceofMemory">The Persistence of Memory</string>
+    <string name="SalvadorDalí">Salvador Dalí (1931)</string>
+    <string name="EdvardMunch">Edvard Munch (1893)</string>
+    <string name="TScream">The Scream</string>
+    <string name="GirlPearlEarring">Girl with a Pearl Earring</string>
+    <string name="JohannesVermeer">Johannes Vermeer (1665)</string>
+    <string name="TheBirthofVenus">The Birth of Venus</string>
+    <string name="SandroBotticelli">Sandro Botticelli (1486)</string>
+</resources>
